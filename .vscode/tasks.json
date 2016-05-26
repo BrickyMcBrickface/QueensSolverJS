@@ -1,0 +1,8 @@
+{
+	"version": "0.1.0",
+	"command": "./node_modules/typescript/bin/tsc",
+	"isShellCommand": true,
+	"showOutput": "silent",
+	"args": ["-p", "."],
+	"problemMatcher": "$tsc"
+}

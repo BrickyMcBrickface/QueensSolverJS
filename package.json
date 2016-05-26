@@ -1,0 +1,23 @@
+{
+  "name": "queenssolverjs",
+  "version": "1.0.0",
+  "description": "TypeScript N-Queens Puzzle Solver",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^1.9.0-dev.20160525-1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrickyMcBrickface/QueensSolverJS.git"
+  },
+  "author": "Justin Love",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrickyMcBrickface/QueensSolverJS/issues"
+  },
+  "homepage": "https://github.com/BrickyMcBrickface/QueensSolverJS#readme"
+}
